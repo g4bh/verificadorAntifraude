@@ -1,4 +1,4 @@
 package application.useCase;
 
-public class validarIdadeUC {
+public class ValidarIdadeUC {
 }
